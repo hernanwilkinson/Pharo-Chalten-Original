@@ -1,0 +1,4 @@
+testing
+isFirstDayOfMonth
+
+	^date isFirstDayOfMonth

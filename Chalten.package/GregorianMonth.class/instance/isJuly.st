@@ -1,0 +1,4 @@
+testing
+isJuly
+
+	^self = July

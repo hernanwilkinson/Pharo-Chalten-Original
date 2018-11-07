@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TimeLineFilterBehavior",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"originalTimeLineFilter"
+	],
+	"name" : "NegatedTimeLineFilter",
+	"type" : "normal"
+}

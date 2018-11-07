@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Chalten-TimeModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sunday",
+		"monday",
+		"thursday",
+		"wednesday",
+		"tuesday",
+		"friday",
+		"saturday"
+	],
+	"name" : "GregorianDayTest",
+	"type" : "normal"
+}

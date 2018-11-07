@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PointInTime",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"month",
+		"dayNumber"
+	],
+	"name" : "GregorianDayOfMonth",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+isFirstDayOfMonth
+	self subclassResponsibility

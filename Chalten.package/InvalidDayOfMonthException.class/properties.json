@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"month",
+		"dayNumber"
+	],
+	"name" : "InvalidDayOfMonthException",
+	"type" : "normal"
+}

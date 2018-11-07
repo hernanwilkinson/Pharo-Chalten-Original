@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "GregorianMonth",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"number",
+		"numberOfDaysFromJanuaryFirstInNonLeapYear",
+		"numberOfDaysFromJanuaryFirst"
+	],
+	"name" : "ThirtyDaysGregorianMonth",
+	"type" : "normal"
+}

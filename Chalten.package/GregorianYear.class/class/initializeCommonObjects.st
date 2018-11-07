@@ -1,0 +1,5 @@
+initialization
+initializeCommonObjects
+
+	self initializeZeroYears.
+	self initializeOneYear

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Chalten-TimeModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"januaryFirstOf2004",
+		"january31Of2004"
+	],
+	"name" : "GregorianTimespanTest",
+	"type" : "normal"
+}

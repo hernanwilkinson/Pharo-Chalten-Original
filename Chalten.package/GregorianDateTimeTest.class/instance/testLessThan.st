@@ -1,0 +1,7 @@
+test comparing
+testLessThan
+
+	self assert: januaryFirstOf2004On23Hours59Minutes58Seconds < januaryFirstOf2004On23Hours59Minutes59Seconds.
+	self assert: januaryFirstOf2004On00Hours00Minutes01Seconds < januaryFirstOf2004On23Hours59Minutes58Seconds.
+	self deny: januaryFirstOf2004On23Hours59Minutes59Seconds < januaryFirstOf2004On23Hours59Minutes58Seconds.
+	self deny: januaryFirstOf2004On23Hours59Minutes58Seconds < januaryFirstOf2004On00Hours00Minutes01Seconds

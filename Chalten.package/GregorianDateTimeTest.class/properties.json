@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Chalten-TimeModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"december31Of2003",
+		"december31Of2003On23Hours59Minutes59Seconds",
+		"januaryFirstOf2004",
+		"januaryFirstOf2004On00Hours00Minutes01Seconds",
+		"januaryFirstOf2004On03Hours",
+		"januaryFirstOf2004On23Hours59Minutes58Seconds",
+		"januaryFirstOf2004On23Hours59Minutes59Seconds",
+		"januarySecondOf2004",
+		"januarySecondOf2004On00Hours00Minutes01Seconds",
+		"januarySecondOf2004On23Hours",
+		"januarySecondOf2004On23Hours59Minutes59Seconds",
+		"januaryThirdOf2004"
+	],
+	"name" : "GregorianDateTimeTest",
+	"type" : "normal"
+}

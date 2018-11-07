@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PointInTime",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OneYear",
+		"ZeroYears"
+	],
+	"instvars" : [ ],
+	"name" : "GregorianYear",
+	"type" : "normal"
+}

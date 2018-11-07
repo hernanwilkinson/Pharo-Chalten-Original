@@ -1,0 +1,4 @@
+testing
+isGregorianDate
+
+	^true

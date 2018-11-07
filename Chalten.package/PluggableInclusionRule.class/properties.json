@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "InclusionRule",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"block"
+	],
+	"name" : "PluggableInclusionRule",
+	"type" : "normal"
+}

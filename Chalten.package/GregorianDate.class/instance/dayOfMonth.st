@@ -1,0 +1,3 @@
+accessing
+dayOfMonth
+	self subclassResponsibility

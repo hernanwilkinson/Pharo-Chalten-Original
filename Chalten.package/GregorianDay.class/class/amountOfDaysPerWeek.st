@@ -1,0 +1,4 @@
+accessing
+amountOfDaysPerWeek
+	
+	^7

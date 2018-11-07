@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Chalten-TimeLineFilterModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"relativeDate",
+		"absoluteDate",
+		"timeLineFilter"
+	],
+	"name" : "RelativeGregorianDateTest",
+	"type" : "normal"
+}

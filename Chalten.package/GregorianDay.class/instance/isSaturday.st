@@ -1,0 +1,4 @@
+testing
+isSaturday
+
+	^self = Saturday

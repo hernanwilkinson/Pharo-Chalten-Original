@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Collection",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rules",
+		"universe"
+	],
+	"name" : "DefinedByRules",
+	"type" : "normal"
+}

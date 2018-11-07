@@ -1,0 +1,5 @@
+initialization
+initializeTheBeginningAndTheEndOfTime
+
+	self initializeTheBeginningOfDateTime.
+	self initializeTheEndOfDateTime.

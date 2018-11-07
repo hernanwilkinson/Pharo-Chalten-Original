@@ -1,0 +1,4 @@
+accessing
+amountOfMonthsPerYear
+	
+	^GregorianMonth amountOfMonthsPerYear

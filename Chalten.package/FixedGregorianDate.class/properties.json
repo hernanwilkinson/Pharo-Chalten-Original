@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "GregorianDate",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [
+		"theBeginningOfTime",
+		"theEndOfTime"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dayNumber",
+		"monthOfYear"
+	],
+	"name" : "FixedGregorianDate",
+	"type" : "normal"
+}

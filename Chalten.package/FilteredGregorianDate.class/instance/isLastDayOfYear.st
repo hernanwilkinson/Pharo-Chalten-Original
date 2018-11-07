@@ -1,0 +1,4 @@
+testing
+isLastDayOfYear
+
+	^date isLastDayOfYear

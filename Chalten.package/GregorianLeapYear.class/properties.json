@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GregorianYear",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number",
+		"numberOfDaysFromBaseDate"
+	],
+	"name" : "GregorianLeapYear",
+	"type" : "normal"
+}

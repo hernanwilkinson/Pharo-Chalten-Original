@@ -1,0 +1,5 @@
+test gregorian date protocol
+testNumberOfDaysFromBeginningOfMonth
+
+	self assert: relativeDate numberOfDaysFromBeginningOfMonth = absoluteDate numberOfDaysFromBeginningOfMonth
+	

@@ -1,0 +1,4 @@
+accessing
+numberOfMonthsPerYear
+	
+	^self twelveMonths

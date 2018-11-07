@@ -1,0 +1,4 @@
+test accessing
+testNumberOfDaysFromBeginningOfYear
+
+	self assert: GregorianMonth february numberOfDaysFromJanuaryFirst = GregorianMonth january numberOfDays

@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [
+		"day",
+		"hour",
+		"minute",
+		"second",
+		"millisecond",
+		"week",
+		"month",
+		"year"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TimeUnits",
+	"type" : "normal"
+}

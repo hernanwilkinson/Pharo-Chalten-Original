@@ -1,0 +1,4 @@
+accessing - days
+numberOfDaysFromJanuaryFirst
+
+	^monthOfYear numberOfDaysFromJanuaryFirst + self numberOfDaysFromBeginningOfMonth

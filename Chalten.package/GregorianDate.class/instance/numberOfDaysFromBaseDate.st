@@ -1,0 +1,3 @@
+accessing - days
+numberOfDaysFromBaseDate
+	self subclassResponsibility

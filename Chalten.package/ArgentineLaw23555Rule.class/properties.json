@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "InclusionRule",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dayOfMonth"
+	],
+	"name" : "ArgentineLaw23555Rule",
+	"type" : "normal"
+}

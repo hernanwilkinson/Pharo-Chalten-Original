@@ -1,0 +1,4 @@
+accessing
+numberOfDaysInFebruary
+	
+	^GregorianDay twentyEightDays

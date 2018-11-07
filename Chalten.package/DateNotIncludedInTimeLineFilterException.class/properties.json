@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"date",
+		"timeLineFilter"
+	],
+	"name" : "DateNotIncludedInTimeLineFilterException",
+	"type" : "normal"
+}

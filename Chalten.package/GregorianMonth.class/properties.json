@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "PointInTime",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FourMonths",
+		"Months",
+		"OneMonth",
+		"SixMonths",
+		"ThreeMonths",
+		"TwelveMonths",
+		"TwoMonths",
+		"ZeroMonths"
+	],
+	"instvars" : [ ],
+	"name" : "GregorianMonth",
+	"type" : "normal"
+}

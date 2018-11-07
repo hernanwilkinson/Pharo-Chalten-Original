@@ -1,0 +1,3 @@
+testing
+isLastDayOfYear
+	self subclassResponsibility

@@ -1,0 +1,4 @@
+testing
+isFirstDayOfYear
+
+	^date isFirstDayOfYear

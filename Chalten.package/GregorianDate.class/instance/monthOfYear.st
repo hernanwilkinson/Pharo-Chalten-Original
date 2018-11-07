@@ -1,0 +1,3 @@
+accessing
+monthOfYear
+	self subclassResponsibility

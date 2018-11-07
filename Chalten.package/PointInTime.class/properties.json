@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "IntervalAwareMagnitude",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PointInTime",
+	"type" : "normal"
+}

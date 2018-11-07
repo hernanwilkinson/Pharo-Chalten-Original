@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "PointInTime",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [
+		"firstTimeOfDay",
+		"lastTimeOfDay",
+		"noon",
+		"oneMillisecond",
+		"oneSecond",
+		"twentyFourHours",
+		"zeroHours"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeFromMidnight"
+	],
+	"name" : "TimeOfDay",
+	"type" : "normal"
+}

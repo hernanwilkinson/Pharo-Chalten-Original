@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "IntervalStrategy",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PointInTimeIntervalStrategy",
+	"type" : "normal"
+}

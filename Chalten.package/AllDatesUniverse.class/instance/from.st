@@ -1,0 +1,5 @@
+accessing
+from
+
+	^FixedGregorianDate theBeginningOfTime
+	

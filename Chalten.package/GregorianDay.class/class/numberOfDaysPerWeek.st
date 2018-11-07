@@ -1,0 +1,4 @@
+accessing
+numberOfDaysPerWeek
+	
+	^self sevenDays

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Stream",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"from",
+		"current",
+		"timeLineFilter"
+	],
+	"name" : "TimeLineFilterStream",
+	"type" : "normal"
+}

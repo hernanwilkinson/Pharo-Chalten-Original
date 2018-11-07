@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GregorianMonth",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [
+		"uniqueInstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FebruaryGregorianMonth",
+	"type" : "normal"
+}

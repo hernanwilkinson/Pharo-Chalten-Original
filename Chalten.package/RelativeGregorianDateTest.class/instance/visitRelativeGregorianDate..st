@@ -1,0 +1,4 @@
+visiting
+visitRelativeGregorianDate: aRelativeGregorianDate
+
+	^self

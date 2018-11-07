@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "InclusionRule",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"day",
+		"month",
+		"cardinal"
+	],
+	"name" : "CardinalDayMonthRule",
+	"type" : "normal"
+}

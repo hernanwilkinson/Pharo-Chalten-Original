@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "",
+	"super" : "PointInTime",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Days",
+		"MinusOneDay",
+		"OneDay",
+		"SevenDays",
+		"ThirtyDays",
+		"ThirtyOneDays",
+		"ThreeHundredSixtyDays",
+		"ThreeHundredSixtyFiveDays",
+		"ThreeHundredSixtySixDays",
+		"TwentyEightDays",
+		"TwentyNineDays",
+		"TwoDays",
+		"ZeroDays"
+	],
+	"instvars" : [
+		"name",
+		"positionInWeek"
+	],
+	"name" : "GregorianDay",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+amountOfMonthsPerYear
+	
+	^12

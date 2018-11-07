@@ -1,0 +1,3 @@
+accessing - days
+numberOfDaysFromJanuaryFirst
+	self subclassResponsibility

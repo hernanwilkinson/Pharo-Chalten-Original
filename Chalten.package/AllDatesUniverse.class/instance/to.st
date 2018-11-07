@@ -1,0 +1,5 @@
+accessing
+to
+
+	^FixedGregorianDate theEndOfTime
+	

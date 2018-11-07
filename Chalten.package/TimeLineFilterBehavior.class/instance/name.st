@@ -1,0 +1,4 @@
+printing
+name
+
+	self subclassResponsibility

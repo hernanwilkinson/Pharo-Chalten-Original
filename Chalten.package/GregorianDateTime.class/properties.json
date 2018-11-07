@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "PointInTime",
+	"category" : "Chalten-TimeModel",
+	"classinstvars" : [
+		"theBeginningOfTime",
+		"theEndOfTime"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeOfDay",
+		"date"
+	],
+	"name" : "GregorianDateTime",
+	"type" : "normal"
+}

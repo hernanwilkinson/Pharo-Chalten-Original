@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GregorianDate",
+	"category" : "Chalten-TimeLineFilterModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"date",
+		"timeLineFilter"
+	],
+	"name" : "FilteredGregorianDate",
+	"type" : "normal"
+}
